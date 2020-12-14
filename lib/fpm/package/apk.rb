@@ -7,6 +7,7 @@ require "backports"
 require "fileutils"
 require "digest"
 require 'digest/sha1'
+require "zlib"
 
 # Support for debian packages (.deb files)
 #
